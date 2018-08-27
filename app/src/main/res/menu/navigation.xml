@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/today_tasks"
+        android:icon="@drawable/ic_today_tasks_black_24dp"
+        android:title="@string/title_today_tasks" />
+
+    <item
+        android:id="@+id/week_tasks"
+        android:icon="@drawable/ic_week_tasks_black_24dp"
+        android:title="@string/title_week_tasks" />
+
+    <item
+        android:id="@+id/task_management"
+        android:icon="@drawable/ic_task_management_black_24dp"
+        android:title="@string/title_task_management" />
+
+</menu>
